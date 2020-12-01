@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+
+@font-face{
+    font-family: Montserrat-Black;
+    src: url("assets/fonts/Montserrat-Black.ttf") format('opentype');
+}
+
+@font-face{
+    font-family: Montserrat-Thin;
+    src: url("assets/fonts/Montserrat-ExtraLight.ttf") format('opentype');
+}
+
+.Montserrat{
+    font-family: Montserrat-Black;
+}
+
+.Montfino{
+    font-family: Montserrat-Thin;
+}
